@@ -1,98 +1,53 @@
-# Gefrezim (bruuuhofficial)
+# Hi, I'm Gefrezim (bruuuhofficial) 👋
+**Software Engineer & Founder of [AuthlyX](https://authly.cc)**  
+📍 Lagos, Nigeria
 
-Software Engineer and Founder of AuthlyX.
-
-I started programming in late 2021 and spend most of my time learning, building software, APIs, mobile applications, and developer tools.  
-Currently focused on growing AuthlyX, a software licensing and authentication platform used by hundreds of developers and businesses.
-
----
-
-## About
-
-I'm a software engineer from Lagos, Nigeria.  
-
-My main focus is building software that solve problems. Most of my work revolves around authentication systems, mobile applications, tools for developers, and SaaS products.  
-
-Outside of programming, I enjoy learning, watching documentaries, educational content, and exploring new technologies.
-
----
-
-## What I'm Working On
-
-- Growing and Improving AuthlyX
-- Building mobile and web products
-- Open-source developer tools
-- Learning more about AI and Prompt Engineering
+I build authentication systems, mobile applications, and developer tools. Since 2021, my focus has been on learning & creating solutions and open-source packages.
 
 ---
 
 ## Featured Projects
 
 ### [AuthlyX](https://authly.cc)
-Software licensing and authentication platform.
-- 900+ registered users
-- 150+ paying customers
-- 4000+ licenses
-- 30k+ API requests daily
-
-**Website:** https://authly.cc
+A software licensing and authentication platform for developers and businesses.
+- **Traction:** 900+ registered users | 150+ paying customers
+- **Scale:** 4,000+ active licenses | 30k+ daily API requests
 
 ### [Celebration Cooperative Society](https://celebrationsociety.com.ng/)
-A web and mobile platform built for cooperative management, member records, savings tracking, and administration.
-
-**Website:** https://celebrationsociety.com.ng/
+Web and mobile platform for cooperative management, tracking member records, savings, and admin tools.
 
 ### [GreenAmpX](https://greenampx.com)
-A website developed for a renewable energy company based in Kenya.
+Corporate website developed for a renewable energy company based in Kenya.
 
-**Website:** https://greenampx.com
-
-### [OverlaySharp](https://www.nuget.org/packages/OverlaysSharp/)
-A lightweight .NET overlay framework published as an open-source package.
-
-**Package:** https://www.nuget.org/packages/OverlaysSharp/  
-**Repo:** https://github.com/gefrezim/OverlaySharp
+### [OverlaySharp](https://github.com/gefrezim/OverlaySharp)
+A lightweight, open-source .NET overlay framework. Published as a [NuGet Package](https://www.nuget.org/packages/OverlaysSharp/).
 
 ### [LiteCapture](https://github.com/gefrezim/LiteCapture)
-A lightweight Windows screen recording application built with C#, FFmpeg, and NAudio.
+A lightweight Windows screen recording app built with C#, FFmpeg, and NAudio. (See also: [LiteCapture Remake](https://github.com/gefrezim/LiteCapture-Basic-Remake-)).
 
-**Beta:** https://github.com/gefrezim/LiteCapture  
-**Remake:** https://github.com/gefrezim/LiteCapture-Basic-Remake-
 
 ---
 
 ## Tech I Use
 
-**Languages**  
-C# • C++ • SQL • TypeScript • JavaScript • Python
-
-**Frontend**  
-React • Next.js
-
-**Mobile**  
-React Native • Flutter
-
-**Infrastructure**  
-Linux • Docker • PostgreSQL • VPS Hosting • AWS
+- **Languages:** C# • C++ • TypeScript • JavaScript • Python • SQL
+- **Frameworks:** React • Next.js • React Native • Flutter • .NET
+- **Infrastructure:** Linux • Docker • PostgreSQL • AWS • VPS Hosting
 
 ---
 
-## Current Interests
-
-- SaaS products
-- Mobile applications
-- AI (AI Engineering and Prompt Engineering)
-- Developer tools
-- Game development
+## What 
+- Growing & Improving AuthlyX
+- Exploring AI Engineering & Prompt Engineering
+- Building developer tools & Software
 
 ---
 
-## Find Me
+## Contact
 
-- **X:** https://x.com/gefrezim
-- **AuthlyX:** https://authly.cc
-- **Discord:** gefrezim
+- **X (Twitter):** [@gefrezim](https://x.com/gefrezim)
+- **Discord:** `gefrezim`
+- **Platform:** [AuthlyX](https://authly.cc)
 
 ---
-
-> Simplicity is the ultimate sophistication.
+*"Simplicity is the ultimate sophistication."*
