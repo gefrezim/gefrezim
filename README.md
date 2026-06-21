@@ -23,15 +23,15 @@ Corporate website developed for a renewable energy company based in Kenya.
 A lightweight, open-source .NET overlay framework. Published as a [NuGet Package](https://www.nuget.org/packages/OverlaysSharp/).
 
 ### [LiteCapture](https://github.com/gefrezim/LiteCapture)
-A lightweight Windows screen recording app built with C#, FFmpeg, and NAudio. (See also: [LiteCapture Remake](https://github.com/gefrezim/LiteCapture-Basic-Remake-)).
-
+A lightweight Windows screen recording application built with C#, FFmpeg, and NAudio.
+Additional prototype and remake versions are available in related repositories.
 
 ---
 
 ## Tech I Use
 
 - **Languages:** C# • C++ • TypeScript • JavaScript • Python • SQL
-- **Frameworks:** React • Next.js • React Native • Flutter • .NET
+- **Frameworks:** React • Next.js • React Native • Flutter • .NET • Unity
 - **Infrastructure:** Linux • Docker • PostgreSQL • AWS • VPS Hosting
 
 ---
@@ -47,7 +47,7 @@ A lightweight Windows screen recording app built with C#, FFmpeg, and NAudio. (S
 
 - **X (Twitter):** [@gefrezim](https://x.com/gefrezim)
 - **Discord:** `gefrezim`
-- **Platform:** [AuthlyX](https://authly.cc)
+- **Mail:** `bruuuhofficial@gmail.com`
 
 ---
 *"Simplicity is the ultimate sophistication."*
