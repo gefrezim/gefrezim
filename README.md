@@ -9,7 +9,7 @@
 <p>
   <a href="https://authly.cc"><img src="https://img.shields.io/badge/AuthlyX-authly.cc-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="AuthlyX" /></a>
   <a href="https://x.com/gefrezim"><img src="https://img.shields.io/badge/X-@gefrezim-7aa2f7?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1b27" alt="X" /></a>
-  <a href="mailto:bruuuhofficial@gmail.com"><img src="https://img.shields.io/badge/Email-bruuuhofficial-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email" /></a>
+  <a href="mailto:contact@gefrezim.com"><img src="https://img.shields.io/badge/Email-contact%40gefrezim.com-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Discord-gefrezim-7aa2f7?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1b27" alt="Discord" />
 </p>
 
@@ -48,8 +48,9 @@
 
 </div>
 
-| Client work | What it is |
+| Websites | What it is |
 | --- | --- |
+| [OPTANE](https://useoptane.com) | Windows cleanup and optimization app: clear junk files, tune gaming settings, turn off Windows ads, and fix common problems on Windows 10 and 11. |
 | [Celebration Cooperative Society](https://celebrationsociety.com.ng/) | Web and mobile platform for a cooperative: member records, savings, and admin tools. |
 | [GreenAmpX](https://greenampx.com) | Corporate site for a renewable energy company in Kenya. |
 
