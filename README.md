@@ -22,7 +22,7 @@
       <h3><a href="https://authly.cc">AuthlyX</a></h3>
       A software licensing and authentication platform for developers and businesses. Licence keys, user management, and SDKs for C# and C++.
       <br /><br />
-      <img src="https://img.shields.io/badge/role-founder%20%26%20engineer-bb9af7?style=flat-square&labelColor=1a1b27" alt="Founder and engineer" />
+      <a href="https://authly.cc"><img src="https://img.shields.io/badge/useoptane.com-7aa2f7?style=flat-square&labelColor=1a1b27" alt=" Try AuthlyX" /></a>
     </td>
     <td width="45%" align="center">
       <img src="https://img.shields.io/badge/developers-1%2C500%2B-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="1,500+ developers" /><br />
@@ -40,7 +40,7 @@
       <h3><a href="https://useoptane.com">OPTANE</a></h3>
       A Windows cleanup and optimization app. Clears junk files, tunes gaming settings, turns off Windows ads, and fixes common problems on Windows 10 and 11.
       <br /><br />
-      <a href="https://useoptane.com"><img src="https://img.shields.io/badge/useoptane.com-7aa2f7?style=flat-square&labelColor=1a1b27" alt="useoptane.com" /></a>
+      <a href="https://useoptane.com"><img src="https://img.shields.io/badge/useoptane.com-7aa2f7?style=flat-square&labelColor=1a1b27" alt="useoptane" /></a>
       <img src="https://img.shields.io/badge/built%20with-.NET-bb9af7?style=flat-square&logo=dotnet&logoColor=white&labelColor=1a1b27" alt="Built with .NET" />
     </td>
   </tr>
