@@ -22,7 +22,7 @@
       <h3><a href="https://authly.cc">AuthlyX</a></h3>
       A software licensing and authentication platform for developers and businesses. Licence keys, user management, and SDKs for C# and C++.
       <br /><br />
-      <a href="https://authly.cc"><img src="https://img.shields.io/badge/useoptane.com-7aa2f7?style=flat-square&labelColor=1a1b27" alt=" Try AuthlyX" /></a>
+      <a href="https://authly.cc"><img src="https://img.shields.io/badge/authly.cc-7aa2f7?style=flat-square&labelColor=1a1b27" alt=" Try AuthlyX" /></a>
     </td>
     <td width="45%" align="center">
       <img src="https://img.shields.io/badge/developers-1%2C500%2B-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="1,500+ developers" /><br />
