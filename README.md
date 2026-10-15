@@ -1,13 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,45:1a1b27,100:7aa2f7&text=Gefrezim&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Founder%20of%20AuthlyX&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Gefrezim" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,45:1a1b27,100:7aa2f7&text=Gefrezim&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=I%20just%20build%20whatever%20interests%20me&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Gefrezim" />
 
-<a href="https://authly.cc">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&height=45&lines=Authentication+and+licensing+infrastructure;Windows+tooling+in+C%23+and+.NET;Web+and+mobile+apps+in+TypeScript;Building+from+Lagos%2C+Nigeria" alt="What I build" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1500&color=7AA2F7&center=true&vCenter=true&width=640&height=45&lines=Simplicity+is+the+ultimate+sophistication." alt="Simplicity is the ultimate sophistication." />
 
 <p>
-  <a href="https://authly.cc"><img src="https://img.shields.io/badge/AuthlyX-authly.cc-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="AuthlyX" /></a>
   <a href="https://x.com/gefrezim"><img src="https://img.shields.io/badge/X-@gefrezim-7aa2f7?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1b27" alt="X" /></a>
   <a href="mailto:contact@gefrezim.com"><img src="https://img.shields.io/badge/Email-contact%40gefrezim.com-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Discord-gefrezim-7aa2f7?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1b27" alt="Discord" />
@@ -22,16 +19,29 @@
 <table>
   <tr>
     <td width="55%" valign="top">
-      <h3><a href="https://authly.cc">authly.cc</a></h3>
+      <h3><a href="https://authly.cc">AuthlyX</a></h3>
       A software licensing and authentication platform for developers and businesses. Licence keys, user management, and SDKs for C# and C++.
       <br /><br />
       <img src="https://img.shields.io/badge/role-founder%20%26%20engineer-bb9af7?style=flat-square&labelColor=1a1b27" alt="Founder and engineer" />
     </td>
     <td width="45%" align="center">
-      <img src="https://img.shields.io/badge/registered%20users-900%2B-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="900+ registered users" /><br />
-      <img src="https://img.shields.io/badge/paying%20customers-150%2B-9ece6a?style=for-the-badge&labelColor=1a1b27" alt="150+ paying customers" /><br />
-      <img src="https://img.shields.io/badge/active%20licenses-4%2C000%2B-bb9af7?style=for-the-badge&labelColor=1a1b27" alt="4,000+ active licenses" /><br />
-      <img src="https://img.shields.io/badge/daily%20API%20requests-30k%2B-e0af68?style=for-the-badge&labelColor=1a1b27" alt="30k+ daily API requests" />
+      <img src="https://img.shields.io/badge/developers-1%2C500%2B-7aa2f7?style=for-the-badge&labelColor=1a1b27" alt="1,500+ developers" /><br />
+      <img src="https://img.shields.io/badge/licenses%20issued-6%2C000%2B-bb9af7?style=for-the-badge&labelColor=1a1b27" alt="6,000+ licenses issued" /><br />
+      <img src="https://img.shields.io/badge/API%20requests-1.5M%2B%20%2F%20month-e0af68?style=for-the-badge&labelColor=1a1b27" alt="1.5M+ API requests per month" />
+    </td>
+  </tr>
+</table>
+
+## <img src="https://skillicons.dev/icons?i=windows" height="22" alt="" /> OPTANE
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://useoptane.com">OPTANE</a></h3>
+      A Windows cleanup and optimization app. Clears junk files, tunes gaming settings, turns off Windows ads, and fixes common problems on Windows 10 and 11.
+      <br /><br />
+      <a href="https://useoptane.com"><img src="https://img.shields.io/badge/useoptane.com-7aa2f7?style=flat-square&labelColor=1a1b27" alt="useoptane.com" /></a>
+      <img src="https://img.shields.io/badge/built%20with-.NET-bb9af7?style=flat-square&logo=dotnet&logoColor=white&labelColor=1a1b27" alt="Built with .NET" />
     </td>
   </tr>
 </table>
@@ -50,7 +60,6 @@
 
 | Websites | What it is |
 | --- | --- |
-| [OPTANE](https://useoptane.com) | Windows cleanup and optimization app: clear junk files, tune gaming settings, turn off Windows ads, and fix common problems on Windows 10 and 11. |
 | [Celebration Cooperative Society](https://celebrationsociety.com.ng/) | Web and mobile platform for a cooperative: member records, savings, and admin tools. |
 | [GreenAmpX](https://greenampx.com) | Corporate site for a renewable energy company in Kenya. |
 
